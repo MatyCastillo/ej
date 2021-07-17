@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App mt-5">
       <h1>Titulo de nuestro primero proyecto</h1>
+      <h1>Rama nueva</h1>
       <Formulario/>
     </div>
   );
